@@ -5,6 +5,7 @@
 
 ## Installation
 `pip install nsnet2-denoiser`
+`pip install git+https://github.com/Jaedong95/nsnet2_denoiser.git'
 
 ## Usage:
 From the NSNet2-baseline directory, run run_nsnet2.py with the following required arguments:

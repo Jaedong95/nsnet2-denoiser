@@ -1,7 +1,7 @@
 import numpy as np
 import soundfile as sf
 from pathlib import Path
-from scipy.signal import blackman, blackmanharris
+from scipy.signal.windows import blackman, blackmanharris
 
 
 def calcFeat(Spec, cfg):
